@@ -15,12 +15,11 @@ Bun is a custom checkboxes & radios CSS generator. It makes the task of creating
 ## Website
 https://empathy.js.org
 
-## Features
 1. Nearly fully customizable CSS settings.
 2. Images or SVGs free solution.
-3. Allows you to add ripple CSS effects.
-4. Dark and light preview background for flexable diffrenet color comination testing.
-5. Generates checkbox and radios CSS unlike others generators that support checkboxes only.
+3. It allows you to add ripple CSS effects.
+4. Dark and light preview background for flexible different color combination testing.
+5. Generates checkboxes and radios CSS, unlike others generators that support checkboxes only.
 
 ## Browser Compatibility
 
