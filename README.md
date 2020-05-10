@@ -25,11 +25,11 @@ https://empathy.js.org
 ## Browser Compatibility
 
 ### Tool browser support
-Works on all modern browsers Additional to IEs (Tested on IE 11).
+Works on all modern browsers except IEs.
 
 ### Generated CSS browser support
-Works on all modren browsers except IEs as well.  
-Safari, on the other hand, has accessibility issues but they are not caused by this package. But caused by the system. More information [here](https://github.com/twbs/bootstrap/issues/25345#issuecomment-358364377).
+Works on all modren browsers additional to IEs (Tested on IE 11).  
+Safari, on the other hand, has accessibility issues but they are not caused by this package. It is caused by the system default settings. More information [here](https://github.com/twbs/bootstrap/issues/25345#issuecomment-358364377).
 
 ## Contributing
 You can contribute and add your own favorite feature to the tool by opening a new [issue](https://github.com/the94air/bun/issues) with an example. If you found a bug, open an issue or send a [pull request](https://github.com/the94air/bun/pulls).
