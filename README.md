@@ -32,7 +32,7 @@ Works on all modren browsers additional to IEs (Tested on IE 11).
 Safari, on the other hand, has accessibility issues but they are not caused by this package. It is caused by the system default settings. More information [here](https://github.com/twbs/bootstrap/issues/25345#issuecomment-358364377).
 
 ## Contributing
-You can contribute and add your own favorite feature to the tool by opening a new [issue](https://github.com/the94air/bun/issues) with an example. If you found a bug, open an issue or send a [pull request](https://github.com/the94air/bun/pulls).
+You can contribute and add your own favorite feature to the tool by opening a new [issue](https://github.com/the94air/bun/issues). If you found a bug, open an issue or send a [pull request](https://github.com/the94air/bun/pulls).
 
 ## Project setup
 ```bash
